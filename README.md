@@ -46,7 +46,7 @@ Blue Team teaches how to detect and respond. Red Team teaches how attackers thin
 | Track | Status |
 |---|---|
 | Blue Team — 30 Days of Cybersecurity | ✅ Complete |
-| Red Team — 30 Days of Looting | ✅ Complete |
+| Red Team — Red team roadmap| ✅ Complete |
 | SIEM-Splunk-Learning-Roadmap | 🔄 In Progress |
 | Wireshark-Learning-Roadmap | ⏳ Planned |
 | Web-Application-and-Pentesting-Roadmap | ⏳ Planned |
